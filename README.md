@@ -55,7 +55,7 @@ The program will ask you to:
         3. Exit
         Enter your choice (1/2/3): 2
         
-        Enter the input filename: C:\\Documents\\PLP\\python-week-4\\input.txt
+        Enter the input filename: C:\\Documents\\PLP\\Week-4-File-and-Error-Handling\\input.txt
         
         Choose a modification:
         1. Convert to UPPERCASE
