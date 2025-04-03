@@ -1,0 +1,2 @@
+File Read & Write Challenge 🖋️: Create A Program That Reads A File And Writes A Modified Version To A New File.
+Error Handling Lab 🧪: Ask The User For A Filename And Handle Errors If It Doesn’T Exist Or Can’T Be Read.
